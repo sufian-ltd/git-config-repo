@@ -6,4 +6,4 @@ db:
   connection: connection-string-here from config server
   host: localhost
   port: 1200
-message:Hello from git repo
+message: Hello from git repo
